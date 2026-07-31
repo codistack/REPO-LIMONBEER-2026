@@ -1,0 +1,6 @@
+{
+  "name": "LIMONBEER",
+  "description": "Tienda en línea de cerveza artesanal, cerveza tradicional y bebidas alcohólicas con ruleta de premios, entregas LIMONFAST, panel de administración y documentación ágil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
